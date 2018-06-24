@@ -1,0 +1,212 @@
+{
+  "disruptions": {
+    "general": [
+      {
+        "disruption_id": 0,
+        "title": "string",
+        "url": "string",
+        "description": "string",
+        "disruption_status": "string",
+        "disruption_type": "string",
+        "published_on": "2018-06-20T08:04:54.986Z",
+        "last_updated": "2018-06-20T08:04:54.986Z",
+        "from_date": "2018-06-20T08:04:54.986Z",
+        "to_date": "2018-06-20T08:04:54.986Z",
+        "routes": [
+          {
+            "route_type": 0,
+            "route_id": 0,
+            "route_name": "string",
+            "route_number": "string",
+            "route_gtfs_id": "string",
+            "direction": {
+              "route_direction_id": 0,
+              "direction_id": 0,
+              "direction_name": "string",
+              "service_time": "string"
+            }
+          }
+        ]
+      }
+    ],
+    "metro_train": [
+      {
+        "disruption_id": 0,
+        "title": "string",
+        "url": "string",
+        "description": "string",
+        "disruption_status": "string",
+        "disruption_type": "string",
+        "published_on": "2018-06-20T08:04:54.986Z",
+        "last_updated": "2018-06-20T08:04:54.986Z",
+        "from_date": "2018-06-20T08:04:54.986Z",
+        "to_date": "2018-06-20T08:04:54.986Z",
+        "routes": [
+          {
+            "route_type": 0,
+            "route_id": 0,
+            "route_name": "string",
+            "route_number": "string",
+            "route_gtfs_id": "string",
+            "direction": {
+              "route_direction_id": 0,
+              "direction_id": 0,
+              "direction_name": "string",
+              "service_time": "string"
+            }
+          }
+        ]
+      }
+    ],
+    "metro_tram": [
+      {
+        "disruption_id": 0,
+        "title": "string",
+        "url": "string",
+        "description": "string",
+        "disruption_status": "string",
+        "disruption_type": "string",
+        "published_on": "2018-06-20T08:04:54.987Z",
+        "last_updated": "2018-06-20T08:04:54.987Z",
+        "from_date": "2018-06-20T08:04:54.987Z",
+        "to_date": "2018-06-20T08:04:54.987Z",
+        "routes": [
+          {
+            "route_type": 0,
+            "route_id": 0,
+            "route_name": "string",
+            "route_number": "string",
+            "route_gtfs_id": "string",
+            "direction": {
+              "route_direction_id": 0,
+              "direction_id": 0,
+              "direction_name": "string",
+              "service_time": "string"
+            }
+          }
+        ]
+      }
+    ],
+    "metro_bus": [
+      {
+        "disruption_id": 0,
+        "title": "string",
+        "url": "string",
+        "description": "string",
+        "disruption_status": "string",
+        "disruption_type": "string",
+        "published_on": "2018-06-20T08:04:54.987Z",
+        "last_updated": "2018-06-20T08:04:54.987Z",
+        "from_date": "2018-06-20T08:04:54.987Z",
+        "to_date": "2018-06-20T08:04:54.987Z",
+        "routes": [
+          {
+            "route_type": 0,
+            "route_id": 0,
+            "route_name": "string",
+            "route_number": "string",
+            "route_gtfs_id": "string",
+            "direction": {
+              "route_direction_id": 0,
+              "direction_id": 0,
+              "direction_name": "string",
+              "service_time": "string"
+            }
+          }
+        ]
+      }
+    ],
+    "regional_train": [
+      {
+        "disruption_id": 0,
+        "title": "string",
+        "url": "string",
+        "description": "string",
+        "disruption_status": "string",
+        "disruption_type": "string",
+        "published_on": "2018-06-20T08:04:54.987Z",
+        "last_updated": "2018-06-20T08:04:54.987Z",
+        "from_date": "2018-06-20T08:04:54.987Z",
+        "to_date": "2018-06-20T08:04:54.987Z",
+        "routes": [
+          {
+            "route_type": 0,
+            "route_id": 0,
+            "route_name": "string",
+            "route_number": "string",
+            "route_gtfs_id": "string",
+            "direction": {
+              "route_direction_id": 0,
+              "direction_id": 0,
+              "direction_name": "string",
+              "service_time": "string"
+            }
+          }
+        ]
+      }
+    ],
+    "regional_coach": [
+      {
+        "disruption_id": 0,
+        "title": "string",
+        "url": "string",
+        "description": "string",
+        "disruption_status": "string",
+        "disruption_type": "string",
+        "published_on": "2018-06-20T08:04:54.987Z",
+        "last_updated": "2018-06-20T08:04:54.987Z",
+        "from_date": "2018-06-20T08:04:54.987Z",
+        "to_date": "2018-06-20T08:04:54.987Z",
+        "routes": [
+          {
+            "route_type": 0,
+            "route_id": 0,
+            "route_name": "string",
+            "route_number": "string",
+            "route_gtfs_id": "string",
+            "direction": {
+              "route_direction_id": 0,
+              "direction_id": 0,
+              "direction_name": "string",
+              "service_time": "string"
+            }
+          }
+        ]
+      }
+    ],
+    "regional_bus": [
+      {
+        "disruption_id": 0,
+        "title": "string",
+        "url": "string",
+        "description": "string",
+        "disruption_status": "string",
+        "disruption_type": "string",
+        "published_on": "2018-06-20T08:04:54.987Z",
+        "last_updated": "2018-06-20T08:04:54.987Z",
+        "from_date": "2018-06-20T08:04:54.987Z",
+        "to_date": "2018-06-20T08:04:54.987Z",
+        "routes": [
+          {
+            "route_type": 0,
+            "route_id": 0,
+            "route_name": "string",
+            "route_number": "string",
+            "route_gtfs_id": "string",
+            "direction": {
+              "route_direction_id": 0,
+              "direction_id": 0,
+              "direction_name": "string",
+              "service_time": "string"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "status": {
+    "version": "string",
+    "health": 0
+  }
+}
+
