@@ -53,7 +53,7 @@ def convert_file(input_file_name, output_file_name):
         abs_output_file_path = os.path.join(script_dir, rel_output_path)
 
         file = open(abs_output_file_path, "w")
-        NodeStructure.format_class(rootNode, file, 1, "Disruptions")
+        NodeStructure.format_class(rootNode, file, 1, output_file_name.split('.')[0])
         file.close()
 
 
